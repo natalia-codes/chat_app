@@ -9,7 +9,7 @@ function App() {
       height ="100vh"
       projectID="PROJECT_ID"
       userName="nataliap"
-      userSecret="PASS"
+      userSecret="PASsrfsdfS"
       />
     </div>
   );
